@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Notas &amp; Médias</string>
+
+    <!-- Interface titulos -->
+    <string name="titulos_botaoAdd">Adicionar materia</string>
+</resources>
